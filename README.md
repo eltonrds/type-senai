@@ -1,0 +1,1 @@
+echo "# type-senai" >> README.md
